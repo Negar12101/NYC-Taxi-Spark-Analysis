@@ -1,4 +1,4 @@
-# NYC Taxi Data Analysis (Milestone 2)
+# NYC Taxi Data Analysis
 
 ## Dataset
 https://www.kaggle.com/datasets/verifiedbysuman/nyc-taxi & 
