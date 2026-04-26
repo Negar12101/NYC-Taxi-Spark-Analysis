@@ -1,7 +1,7 @@
 # NYC Taxi Data Analysis (Milestone 2)
 
 ## Dataset
-https://www.kaggle.com/datasets/verifiedbysuman/nyc-taxi
+https://www.kaggle.com/datasets/verifiedbysuman/nyc-taxi & 
 https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 ## Project Overview
