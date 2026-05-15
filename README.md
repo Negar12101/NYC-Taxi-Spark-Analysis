@@ -11,7 +11,7 @@ https://www.kaggle.com/datasets/verifiedbysuman/nyc-taxi &
 https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 Project file:
-- `NYC Taxi (3).ipynb` – main notebook for Milestone 3
+- `[NYC Taxi (3).ipynb](https://github.com/Negar12101/NYC-Taxi-Spark-Analysis/blob/main/NYC%20Taxi%20(3).ipynb)` – main notebook for Milestone 3 ( Immediately below the Milestone 3 heading)
 
 
 ## Dataset Summary
