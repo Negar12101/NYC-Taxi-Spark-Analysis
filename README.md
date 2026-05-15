@@ -1,11 +1,7 @@
 # NYC Taxi Data Analysis
 
 
-## Overview
-This project analyzes the NYC Taxi dataset using distributed data processing and machine learning on SDSC Expanse. All preprocessing and modeling were completed with Spark DataFrames and Spark MLlib to satisfy DSC 232R requirements for distributed computing.
-
-
-# NYC Taxi Project - Milestone 3
+#  Milestone 3
 
 ## Overview
 This project analyzes the NYC Taxi dataset using distributed data processing and machine learning on SDSC Expanse. All exploration, preprocessing, and model training were completed with Spark DataFrames and Spark MLlib to satisfy the DSC 232R requirement for distributed computing.
@@ -14,10 +10,9 @@ This project analyzes the NYC Taxi dataset using distributed data processing and
 https://www.kaggle.com/datasets/verifiedbysuman/nyc-taxi & 
 https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
-Project files:
+Project file:
 - `NYC Taxi (3).ipynb` – main notebook for Milestone 3
-- `3.pdf` – exported results/report
-- `README.md` – project summary
+
 
 ## Dataset Summary
 The analysis uses the 2017 NYC Taxi FHV dataset.
